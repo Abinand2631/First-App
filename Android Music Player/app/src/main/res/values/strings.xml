@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="songs">Songs</string>
+    <string name="playlists">Playlists</string>
+    <string name="albums">Albums</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="repeat">Repeat</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="unknown_artist">Unknown Artist</string>
+    <string name="unknown_album">Unknown Album</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="permission_message">This app needs permission to access your music files.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="no_songs_found">No songs found</string>
+    <string name="search">Search</string>
+    <string name="create_playlist">Create Playlist</string>
+    <string name="playlist_name">Playlist Name</string>
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+</resources>
